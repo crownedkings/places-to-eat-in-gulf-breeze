@@ -1,28 +1,7 @@
-== README
+README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+To get this application up and running I created a new repository, a new rails project for my [places to eat in gulf breeze](http://labrisarestaurant.com/) website and followed all the steps from the GitHub site. I am still a beginner, but I'm learning quickly. 
 
-Things you may want to cover:
+![places to eat in gulf breeze](https://media-cdn.tripadvisor.com/media/photo-s/00/14/df/c5/beach-off-of-pool.jpg)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Someone told me that you can create great websites through this platform so I'm willing to try this. I want to make a dynamic, secure site that I can also rank easier on the search engines. The web is such a cool place to build an audience and we had a lot of success lately. I wish you all the best and I invite you to pay us a visit when you're around!
